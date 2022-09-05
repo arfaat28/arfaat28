@@ -1,6 +1,6 @@
 ![Profile](https://user-images.githubusercontent.com/69072470/188491095-37671e15-69ff-4bf5-a7e7-9c256fd247f0.png)
 
-My name is Arfaat Hashmi and I'm a software developer. I'm from India, currently living in Mumbai.
+My name is Arfaat Hashmi and I'm a software developer. I'm from India, currently residing in Mumbai.
 - 🔭 I’m currently working on **developing my development skills.** 
 - 👀 I’m passionate in Application and Web developing.
 - ⚡ One of my hobbies is **designing and playing games with friends.**
